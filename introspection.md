@@ -1,13 +1,20 @@
 # amfoss-tasks
-for amfoss
-Why must we choose you?
+
+1.Why must we choose you?
+
 I am really intrested in technology more importantly interested in learning new ideas and creating things of my own.I love coding and i have no hesitation in sitting infront of the screen for hours just to look for that one bug which is causing problems(which is a huge nightmare for coders)
 
-What is your plan for the next 6 months?
+
+2.What is your plan for the next 6 months?
+
 I plan on getting better at coding and create things of my own, and hopefully gain some weight and hit the gym(i am 179cm and barely 48 kg)
 
-How would you contribute back to the club? 
+
+3.How would you contribute back to the club? 
+
 by helping out fellow coders and actively participate in competitions,workshops etc and work on new projects
 
-Do you have any feedback for the selection process?
+
+4.Do you have any feedback for the selection process?
+
 To be honest, a lot of the tasks are pretty difficult even for someone who has learned basic coding in the past but i guess this way you relly find out who are interested
