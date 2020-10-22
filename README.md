@@ -1,2 +1,0 @@
-# amfoss-tasks
-for amfoss
