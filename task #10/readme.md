@@ -1,1 +1,1 @@
-i had learned python for 2 years(11th and 12th) and did a course on javascript basics from freecode camp so i figured i could skip this,plus they are teaching C and i kinda wanna get really good at one that i have already takedn and then go for another language
+i had learned python for 2 years(11th and 12th) and did a course on javascript basics from freecode camp so i figured i could skip this,plus they are teaching C and i kinda wanna get really good at one that i have already taken and then go for another language
