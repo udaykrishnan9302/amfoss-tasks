@@ -1,6 +1,6 @@
 1.Why must we choose you?
 
-I am really intrested in technology more importantly interested in learning new ideas and creating things of my own.I love coding and i have no hesitation in sitting infront of the screen for hours just to look for that one bug which is causing problems(which is a huge nightmare for coders)
+I am really intrested in technology more importantly interested in learning new ideas and creating things of my own.I have never been much of an athletic person,I have always been one of those people who spent more time in the computer labs than in the playground.I love coding(though not really great at it) and i have no hesitation in sitting infront of the screen for hours just to look for that one bug which is causing problems(which is a huge nightmare for coders)
 
 2.What is your plan for the next 6 months?
 
