@@ -42,3 +42,7 @@ bandit7 password:HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
 ls
 cat data.txt | grep "millionth"
 bandit8 password:cvX2JJa4CFALtqS87jk27qwqGhBM9plV
+-------------------------------------------------
+ls
+cat data.txt | sort | uniq -u
+bandit9 password:UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
