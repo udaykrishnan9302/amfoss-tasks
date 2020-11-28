@@ -46,3 +46,7 @@ bandit8 password:cvX2JJa4CFALtqS87jk27qwqGhBM9plV
 ls
 cat data.txt | sort | uniq -u
 bandit9 password:UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
+-------------------------------------------------
+ls
+strings data.txt | grep "="
+bandit10 password:truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
