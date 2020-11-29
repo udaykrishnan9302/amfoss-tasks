@@ -9,7 +9,7 @@ CONTENTS
 |[task#02](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2302)|Nickname in IRC Freenode|
 |[task#03](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2303)|HackerRank problems|
 |[task#05](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2305)|Rustic Scraper|
-|[task#09]()|Spammer spaghetti|
+|[task#09](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2309)|Spammer spaghetti|
 |[task#10](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2310)|CS50|
 |[task#14](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2314)|Bandit|
 |[task#15](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2315)|Project Euler|
