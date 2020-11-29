@@ -6,11 +6,12 @@ CONTENTS
 |TASKS|DESCRIPTION|
 |-----|-----------|
 |task#00|Installing Ubuntu|
-|task||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
+|task#01|Starring Amfoss repository|
+|task#02|Nickname in IRC Freenode|
+|task#03|HackerRank problems|
+|task#05|Rustic Scraper|
+|task#09|Spammer spaghetti|
+|task#10|CS50|
+|task#14|Bandit|
+|task#15|Project Euler|
+
