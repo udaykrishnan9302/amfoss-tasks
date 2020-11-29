@@ -4,7 +4,7 @@ CONTENTS
 
 |TASKS|DESCRIPTION|
 |-----|-----------|
-|[task#00]()|Installing Ubuntu|
+|[task#00](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2300)|Installing Ubuntu|
 |[task#01]()|Starring Amfoss repository|
 |[task#02]()|Nickname in IRC Freenode|
 |[task#03]()|HackerRank problems|
