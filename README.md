@@ -16,3 +16,7 @@ CONTENTS
 
 # About my tasks:
 So yeah these are my tasks for amfoss, i have put in a lot of effort but have also slacked sometimes. I may not have finished all the tasks completely but yeah i have tried my best and i hope to work on other projects too in the future
+
+# About me:
+I have kinda already said about my interests in the introspection....other than that i was born and brought up in different states in India until i was 13 and then my family settled at my native place...cochin
+I love memes and videogames and have tried building a 2D game using pygame(python) back in 11th grade
