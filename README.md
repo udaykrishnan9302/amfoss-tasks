@@ -6,3 +6,4 @@ CONTENTS
 |TASKS|DESCRIPTION|
 |-----|-----------|
 |task#00|Installing Ubuntu|
+|task||
