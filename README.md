@@ -8,9 +8,16 @@ CONTENTS
 |[task#01](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2301)|Starring Amfoss repository|
 |[task#02](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2302)|Nickname in IRC Freenode|
 |[task#03](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2303)|HackerRank problems|
+|[task#04]()|Debugging Derbies|
 |[task#05](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2305)|Rustic Scraper|
+|[task#06]()|Geddit|
+|[task#07]()|Ubiquitous UI|
+|[task#08]()|Sir Perceval’s quest|
 |[task#09](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2309)|Spammer spaghetti|
 |[task#10](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2310)|CS50|
+|[task#11]()|Poster Design|
+|[task#12]()|If maths was fun|
+|[task#13]()|Circuit Design|
 |[task#14](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2314)|Bandit|
 |[task#15](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2315)|Project Euler|
 
