@@ -11,7 +11,7 @@ CONTENTS
 |[task#04](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2304)|Debugging Derbies|
 |[task#05](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2305)|Rustic Scraper|
 |[task#06](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2306)|Geddit|
-|[task#07]()|Ubiquitous UI|
+|[task#07](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2307)|Ubiquitous UI|
 |[task#08]()|Sir Perceval’s quest|
 |[task#09](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2309)|Spammer spaghetti|
 |[task#10](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2310)|CS50|
