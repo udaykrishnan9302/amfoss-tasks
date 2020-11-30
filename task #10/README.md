@@ -1,2 +1,3 @@
-**I had learned python for 2 years(11th and 12th) and did a course on javascript basics from freecode camp so i kinda wanna get really good at one that i have already taken and then go for another language(in this case C)
-also since their psets were for C...all i can do is prove my python skills through the other tasks...**
+## CS50
+I had learned python for 2 years(11th and 12th) and did a course on javascript basics from freecode camp so i kinda wanna get really good at one that i have already taken and then go for another language(in this case C)
+also since their psets were for C...all i can do is prove my python skills through the other tasks...
