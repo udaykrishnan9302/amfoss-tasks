@@ -15,7 +15,7 @@ CONTENTS
 |[task#08](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2308)|Sir Perceval’s quest|
 |[task#09](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2309)|Spammer spaghetti|
 |[task#10](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2310)|CS50|
-|[task#11]()|Poster Design|
+|[task#11](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2311)|Poster Design|
 |[task#12]()|If maths was fun|
 |[task#13]()|Circuit Design|
 |[task#14](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2314)|Bandit|
