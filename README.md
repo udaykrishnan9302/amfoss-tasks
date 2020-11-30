@@ -8,7 +8,7 @@ CONTENTS
 |[task#01](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2301)|Starring Amfoss repository|
 |[task#02](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2302)|Nickname in IRC Freenode|
 |[task#03](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2303)|HackerRank problems|
-|[task#04]()|Debugging Derbies|
+|[task#04](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2304)|Debugging Derbies|
 |[task#05](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2305)|Rustic Scraper|
 |[task#06](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2306)|Geddit|
 |[task#07]()|Ubiquitous UI|
