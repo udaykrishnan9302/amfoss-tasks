@@ -12,7 +12,7 @@ by helping out fellow coders and actively participate in workshops and other dis
 
 ## 4.Do you have any feedback for the selection process?
 
-To be honest, a lot of the tasks are pretty difficult even for someone who has learned basic coding in the past but i guess this way you really find out who are interested in it.
-most of the tasks are not the kind that would just reveal the answer from a simple google search, you really have to put in the effort and try to learn the ways to solve the challenges and i guess that was a pretty good experience
+To be honest, a lot of the tasks were pretty difficult even for someone who has learned basic coding in the past but i guess this way you really find out who are interested in it.
+Most of the tasks are not the kind that would just reveal the answer from a simple google search, you really have to put in the effort and try to learn the ways to solve the challenges and i guess that was a pretty good experience
 
 
