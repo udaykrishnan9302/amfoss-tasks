@@ -1,4 +1,4 @@
 ## Project Euler
-i have done this task too in python and yes i know "Euler" is pronounced "oil-er" ;)
+I have done this task in python too and yes i know "Euler" is pronounced "oil-er" ;)
 
-the difficulty of this task depended upon the Euler problem 
+The difficulty of this task depended upon the Euler problem,Some of them were easy while others were kinda more complex
