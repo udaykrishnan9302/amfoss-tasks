@@ -4,22 +4,22 @@ CONTENTS
 
 |TASKS|DESCRIPTION|
 |-----|-----------|
-|[task#00](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2300)|Installing Ubuntu|
-|[task#01](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2301)|Starring Amfoss repository|
-|[task#02](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2302)|Nickname in IRC Freenode|
-|[task#03](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2303)|HackerRank problems|
-|[task#04](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2304)|Debugging Derbies|
-|[task#05](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2305)|Rustic Scraper|
-|[task#06](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2306)|Geddit|
-|[task#07](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2307)|Ubiquitous UI|
+|[task#00](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2300)|Installing Ubuntu|Completed|
+|[task#01](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2301)|Starring Amfoss repository|Completed|
+|[task#02](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2302)|Nickname in IRC Freenode|Completed|
+|[task#03](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2303)|HackerRank problems|Attempted|
+|[task#04](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2304)|Debugging Derbies|Attempted|
+|[task#05](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2305)|Rustic Scraper|Attempted|
+|[task#06](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2306)|Geddit|Yet to check|
+|[task#07](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2307)|Ubiquitous UI|Yet to check
 |[task#08](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2308)|Sir Perceval’s quest|
-|[task#09](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2309)|Spammer spaghetti|
-|[task#10](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2310)|CS50|
-|[task#11](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2311)|Poster Design|
-|[task#12](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2312)|If maths was fun|
-|[task#13](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2313)|Circuit Design|
-|[task#14](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2314)|Bandit|
-|[task#15](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2315)|Project Euler|
+|[task#09](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2309)|Spammer spaghetti|Completed|
+|[task#10](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2310)|CS50|Attempted|
+|[task#11](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2311)|Poster Design|Completed|
+|[task#12](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2312)|If maths was fun|Yet to check|
+|[task#13](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2313)|Circuit Design|Attempted|
+|[task#14](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2314)|Bandit|Completed|
+|[task#15](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2315)|Project Euler|Attempted|
 
 # About my tasks:
 So yeah these are my tasks for amfoss, i have put in a lot of effort but have also slacked sometimes. I may not have finished all the tasks completely but yeah i have tried my best and i hope to work on other projects too in the future,Hope you guys like it ;)
