@@ -2,8 +2,8 @@
 
 CONTENTS
 
-|TASKS|DESCRIPTION|
-|-----|-----------|
+|TASKS|DESCRIPTION|STATUS|
+|-----|-----------|------|
 |[task#00](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2300)|Installing Ubuntu|Completed|
 |[task#01](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2301)|Starring Amfoss repository|Completed|
 |[task#02](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2302)|Nickname in IRC Freenode|Completed|
