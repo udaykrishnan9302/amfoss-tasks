@@ -20,6 +20,7 @@ CONTENTS
 |[task#13](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2313)|Circuit Design|Completed|
 |[task#14](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2314)|Bandit|Completed|
 |[task#15](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2315)|Project Euler|Attempted|
+|[New_Task]()|Automate The Boring Stuff|Attempted|
 
 # About my tasks:
 So yeah these are my tasks for amfoss, i have put in a lot of effort but have also slacked sometimes. I may not have finished all the tasks completely but yeah i have tried my best and i hope to work on other projects too in the future,Hope you guys like it ;)
