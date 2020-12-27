@@ -1,0 +1,39 @@
+## Practice Questions Answers
+### Question-1
+Operators are *,-,/,+
+Values are 'hello',-88.8,5
+
+### Question-2
+variable - spam
+string - 'spam'
+
+### Question-3
+Lists,Tuples,Dictionaries
+
+### Question-4
+An expression is any legal combination of symbols that represents a value. Expressions need to be evaluated. If we ask Python to print an expression, the interpreter 
+evaluates the expression and displays the result.
+eg:a+b
+
+### Question-5
+* An expression is any legal combination of symbols that represents a value.
+* A statement is a programming instruction that does something. It is not necessary that a statement results in a value.
+
+### Question-6
+21
+
+### Question-7
+spamspamspam
+spamspamspam
+
+### Question-8
+Integer values cannot be used as variables to be assigned to something while string values can be hence eggs is a valid variable while 100 is not
+
+### Question-9
+to get integer-int()
+floating-point number-float()
+string-str()
+
+### Question-10
+the error occurs because integer value and string value cannot be added together, we can correct this by converting the integer value to str
+'I have eaten ' + '99' + ' burritos.'
