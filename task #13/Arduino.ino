@@ -12,6 +12,7 @@ const int echoPin = 11;
 float duration, distance;
 
 void setup() {
+  pinMode(8, OUTPUT);
   pinMode(trigPin, OUTPUT);
   pinMode(echoPin, INPUT);
   pinMode(RMS, OUTPUT);
@@ -36,7 +37,10 @@ void loop() {
   else
   {
     stops();
-   
+    digitalWrite(8, HIGH);
+    delay(1000);
+    digitalWrite(8, LOW);
+    delay(1000);
   } 
  
 }
@@ -55,3 +59,22 @@ void sense()
   Serial.println(distance);
   delay(100);
 }
+
+void forward()
+{ 
+  digitalWrite(RMP, HIGH);
+  digitalWrite(RMN, LOW);
+  digitalWrite(LMP, HIGH);
+  digitalWrite(LMN, LOW);
+ }
+
+
+
+void stops()
+{
+  digitalWrite(RMP, LOW);
+  digitalWrite(RMN, LOW);
+  digitalWrite(LMP, LOW);
+  digitalWrite(LMN, LOW);
+}
+
