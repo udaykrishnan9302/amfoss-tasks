@@ -1,0 +1,63 @@
+QUESTION-1
+The two values of the Boolean data type are True and False(with T and F being uppercase)
+
+QUESTION-2
+The three Boolean operators are and,or,not
+
+QUESTION-3
+AND
+1.1=1
+1.0=0
+0.1=0
+0.0=0
+
+OR
+1.1=1
+1.0=1
+0.1=1
+0.0=0
+
+NOT
+1=0
+0=1
+
+QUESTION-4
+i.False
+ii.False
+iii.False
+iv.False
+v.True
+
+QUESTION-5
+The six comparison operators are > , < , >= , <= , === , and !== 
+
+QUESTION-6
+The '=' assignment operator is used for representing and  assigning values while the '==' comparison operator is used for checking if two given values are equal or not
+
+QUESTION-7
+Python uses boolean logic to evaluate conditions. The boolean values True and False are returned when an expression is compared or evaluated.
+eg:print(2>5)
+returns True
+
+QUESTION-8
+The three blocks in this code are:
+ print('eggs')
+ print('bacon')
+ print('ham')
+ 
+ QUESTION-9
+ spam=int(input("enter the no:"))
+ if spam==1:
+   print("Hello")
+ elif spam==2
+   print("Howdy")
+else:
+   print("Greetings!")
+   
+QUESTION-10
+CTRL+C can be used to exit from the infinte loop
+
+
+QUESTION-11
+
+
