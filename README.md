@@ -10,13 +10,13 @@ CONTENTS
 |[task#03](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2303)|HackerRank problems|Attempted|
 |[task#04](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2304)|Debugging Derbies|Completed|
 |[task#05](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2305)|Rustic Scraper|Attempted|
-|[task#06](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2306)|Geddit|Yet to check|
-|[task#07](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2307)|Ubiquitous UI|Yet to check|
-|[task#08](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2308)|Sir Perceval’s quest|Attempted|
+|[task#06](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2306)|Geddit|Pending|
+|[task#07](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2307)|Ubiquitous UI|Pending|
+|[task#08](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2308)|Sir Perceval’s quest|Completed|
 |[task#09](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2309)|Spammer spaghetti|Completed|
 |[task#10](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2310)|CS50|Attempted|
 |[task#11](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2311)|Poster Design|Completed|
-|[task#12](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2312)|If maths was fun|Yet to check|
+|[task#12](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2312)|If maths was fun|Attempted|
 |[task#13](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2313)|Circuit Design|Completed|
 |[task#14](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2314)|Bandit|Completed|
 |[task#15](https://github.com/udaykrishnan9302/amfoss-tasks/tree/main/task%20%2315)|Project Euler|Attempted|
