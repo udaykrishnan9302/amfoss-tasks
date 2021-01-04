@@ -25,3 +25,22 @@ A local variable is a variable which is declared within a function, it is access
 QUESTION-7
 A return statement is used to end the execution of the function that is it instructs the program to leave the subroutine.
 return can be part of an expression
+
+QUESTION-9
+By using the global keyword we can declare the variable as global
+
+QUESTION-10
+None is a datatype of its own as it is used to define null values hence only None can be None
+
+QUESTION-11
+the import areallyourpetsnamederic statememnt will import the module 'areallyourpetsnamederic' if it exists
+
+QUESTION-12
+import spam
+spam.bacon()
+
+QUESTION-13
+We can use try or except method to prevent crashing of a program so that if the code has error it execute the except part
+
+QUESTION-14
+The statements that need to be executed goes into the try clause and the exception part goes to the except part so as to prevent crashing of program
