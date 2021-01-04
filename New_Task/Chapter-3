@@ -1,0 +1,27 @@
+QUESTION-1
+program development becomes easy
+code sharing becomes easy
+the readability of code increases
+helps in avoiding repitition
+reduces errors in the program
+
+QUESTION-2
+the code executes when the function is called out
+
+QUESTION-3
+the def keyword creates a function
+eg: def sumfunc(a,b):
+
+QUESTION-4
+A function is a group of statement that exists within a program for performing a specific task
+A function call is what we use to execute that function
+
+QUESTION-5
+There is one global scope and 4 local scope
+
+QUESTION-6
+A local variable is a variable which is declared within a function, it is accessible only within a function, so it keeps the value until the function is called the next time
+
+QUESTION-7
+A return statement is used to end the execution of the function that is it instructs the program to leave the subroutine.
+return can be part of an expression
